@@ -19,7 +19,7 @@ import { LinkTo } from '@ember/routing';
     </li>
     <li>
       <LinkTo @route="sort_completed" @activeClass="selected">
-        Sort 
+        Sort by Task
       </LinkTo>
     </li>
   </ul>
